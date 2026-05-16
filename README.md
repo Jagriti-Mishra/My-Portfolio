@@ -8,3 +8,7 @@ A developer portfolio featuring projects, DSA practice, and web development work
 # work Experience 
 >Internship 
 AMAZON-3 month 
+
+Created by Jagriti Mishra.
+Further more repos will be uploaded.
+Stay tunned with my git-Hub @Jagriti-Mishra
