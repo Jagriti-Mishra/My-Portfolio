@@ -43,5 +43,6 @@ I am a second-year B.Tech CSE student at Pranveer Singh Institute of Technology 
 ## Connect With Me
 
 - GitHub: https://github.com/Jagriti-Mishra
-- LinkedIn: https://leetcode.com/u/JagritiMishra24/
+- LinkedIn: https://www.linkedin.com/in/jagriti-mishra-dev
+- LeetCode: https://leetcode.com/u/JagritiMishra24/
 
